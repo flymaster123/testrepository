@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-    <title>Terms & Conditions</title>
+    <title>Terms & Conditions test</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="DESCRIPTION" content="Terms And Conditions Decription">
